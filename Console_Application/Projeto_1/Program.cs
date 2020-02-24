@@ -6,7 +6,14 @@ namespace Projeto_1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            bool helloWord = false;
+
+            if(helloWord){
+                Console.WriteLine("Bool True");
+            }
+            else{
+                Console.WriteLine("Bool false");
+            }
         }
     }
 }
