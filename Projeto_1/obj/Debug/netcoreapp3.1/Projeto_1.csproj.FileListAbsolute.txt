@@ -1,0 +1,11 @@
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\bin\Debug\netcoreapp3.1\Projeto_1.exe
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\bin\Debug\netcoreapp3.1\Projeto_1.deps.json
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\bin\Debug\netcoreapp3.1\Projeto_1.runtimeconfig.json
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\bin\Debug\netcoreapp3.1\Projeto_1.runtimeconfig.dev.json
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\bin\Debug\netcoreapp3.1\Projeto_1.dll
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\bin\Debug\netcoreapp3.1\Projeto_1.pdb
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\obj\Debug\netcoreapp3.1\Projeto_1.csprojAssemblyReference.cache
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\obj\Debug\netcoreapp3.1\Projeto_1.AssemblyInfoInputs.cache
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\obj\Debug\netcoreapp3.1\Projeto_1.AssemblyInfo.cs
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\obj\Debug\netcoreapp3.1\Projeto_1.dll
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Console_Application\Projeto_1\obj\Debug\netcoreapp3.1\Projeto_1.pdb
