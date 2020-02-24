@@ -276,3 +276,8 @@ __pycache__/
 
 # End of https://www.gitignore.io/api
 /aspnetcore
+Projeto_Web_1/bin/Debug/netcoreapp3.1/Projeto_Web_1.dll
+Projeto_Web_1/bin/Debug/netcoreapp3.1/Projeto_Web_1.dll
+Projeto_Web_1/bin/Debug/netcoreapp3.1/Projeto_Web_1.pdb
+Projeto_Web_1/obj/Debug/netcoreapp3.1/Projeto_Web_1.dll
+Projeto_Web_1/obj/Debug/netcoreapp3.1/Projeto_Web_1.pdb
