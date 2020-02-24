@@ -272,4 +272,7 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/
 
-# End of https://www.gitignore.io/api/aspnetcore
+*.vscode
+
+# End of https://www.gitignore.io/api
+/aspnetcore
