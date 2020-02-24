@@ -17,8 +17,15 @@ namespace Projeto_Web_1.Controllers
         // .../Painel/Admin/Olafinho?nome=Eliz
         [HttpGet("Olafinho")] 
         public IActionResult Olaf(){
-            var nome = Request.Query["nome"];
+            var nome = Request.Query["nome"]; //query string
             return Content("Eu gosto de abraços quentinhos " + nome + " :)");
+        }
+
+        // .../Painel/Admin/Visualizar
+        [HttpGet("Visualizar")]
+        public IActionResult Visualizar(){
+            ViewData["nome"] = "Eliz Carvalho";
+            return View("VisuOlaf");
         }
     }
 }

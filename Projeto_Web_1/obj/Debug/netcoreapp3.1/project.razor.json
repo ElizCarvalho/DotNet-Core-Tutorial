@@ -20506,6 +20506,11 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\elizabeth.carvalho\\Downloads\\CURSO_NET_CORE\\Projeto_Web_1\\Views\\Admin\\VisuOlaf.cshtml",
+      "TargetPath": "Views\\Admin\\VisuOlaf.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\elizabeth.carvalho\\Downloads\\CURSO_NET_CORE\\Projeto_Web_1\\Views\\Shared\\Error.cshtml",
       "TargetPath": "Views\\Shared\\Error.cshtml",
       "FileKind": "mvc"
@@ -20533,6 +20538,11 @@
     {
       "FilePath": "c:\\Users\\elizabeth.carvalho\\Downloads\\CURSO_NET_CORE\\Projeto_Web_1\\Views\\Home\\Index.cshtml",
       "TargetPath": "Views\\Home\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\elizabeth.carvalho\\Downloads\\CURSO_NET_CORE\\Projeto_Web_1\\Views\\Admin\\Visualizar.cshtml",
+      "TargetPath": "Views\\Admin\\Visualizar.cshtml",
       "FileKind": "mvc"
     }
   ],
