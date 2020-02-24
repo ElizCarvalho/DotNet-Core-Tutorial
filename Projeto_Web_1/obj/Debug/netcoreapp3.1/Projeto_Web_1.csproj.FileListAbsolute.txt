@@ -68,3 +68,5 @@ C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Projeto_Web_1\obj\Debug\net
 C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Projeto_Web_1\obj\Debug\netcoreapp3.1\Projeto_Web_1.dll
 C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Projeto_Web_1\obj\Debug\netcoreapp3.1\Projeto_Web_1.pdb
 C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Projeto_Web_1\obj\Debug\netcoreapp3.1\Projeto_Web_1.csproj.CopyComplete
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Projeto_Web_1\obj\Debug\netcoreapp3.1\Razor\Views\Admin\Visualizar.cshtml.g.cs
+C:\Users\elizabeth.carvalho\Downloads\CURSO_NET_CORE\Projeto_Web_1\obj\Debug\netcoreapp3.1\Razor\Views\Admin\VisuOlaf.cshtml.g.cs
